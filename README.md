@@ -4,7 +4,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🔭 Currently looking for work
+- 🔭 Software Engineer
 - 🎓 M.Sc. in Computer Science from TU Darmstadt.
 
 
